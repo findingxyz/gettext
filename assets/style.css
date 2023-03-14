@@ -1,0 +1,19 @@
+* {
+    background-color: beige;
+}
+
+pre {
+    white-space: pre-wrap;
+}
+
+#content {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+}
+
+#input {
+    text-align: center;
+}
+
+
